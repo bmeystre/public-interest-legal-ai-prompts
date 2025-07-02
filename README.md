@@ -122,15 +122,7 @@ This prompt suite serves the full spectrum of public interest legal practice:
 - **Human Rights Advocacy** before UN bodies and regional courts
 - **Transitional Justice** initiatives and reparations programs
 - **International Legal Assistance** and capacity building
-
-## 📝 License and Attribution
-
-This prompt suite is released for professional legal and investigative use by public interest practitioners. When using these prompts:
-- Maintain attribution to this collection
-- Ensure compliance with applicable legal and ethical guidelines
-- Consider local regulatory requirements for AI use in legal practice
-- Share improvements and adaptations with the broader community
-
+  
 ---
 
 **Version**: 3.0  
