@@ -124,8 +124,3 @@ This prompt suite serves the full spectrum of public interest legal practice:
 - **International Legal Assistance** and capacity building
   
 ---
-
-**Version**: 3.0  
-**Last Updated**: [Current Date]  
-**Developed for**: Public Interest Legal Practitioners  
-**Contact**: [Organization Contact Information]
