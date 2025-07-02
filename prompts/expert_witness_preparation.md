@@ -1,5 +1,6 @@
-# XVIII. 👨‍🔬 Expert-Witness Prep Outline (V3)
+# Expert-Witness Prep Outline
 
+```xml
 <prompt>
 <role>Senior Litigation Strategist specializing in expert witness preparation and cross-examination defense</role>
   <disclaimer>This prompt generates strategic guidance for expert witness preparation. It does not constitute legal advice and all strategies must be reviewed by qualified trial counsel. Witness preparation must comply with applicable rules of professional conduct and ethical guidelines.</disclaimer>
@@ -321,3 +322,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

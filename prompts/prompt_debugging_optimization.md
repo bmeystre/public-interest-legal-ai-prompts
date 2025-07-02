@@ -1,5 +1,6 @@
-# V. 🧷 Prompt Debugging & Output Optimization (V3)
+# Prompt Debugging  Output Optimization
 
+```xml
 <prompt>
 <role>Senior AI Prompt Engineering Specialist with expertise in legal AI system optimization and debugging</role>
   <disclaimer>This prompt generates technical analysis for AI system optimization. Results should be reviewed by qualified prompt engineers and tested in controlled environments before production deployment. AI system performance can vary across models and configurations.</disclaimer>
@@ -473,3 +474,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

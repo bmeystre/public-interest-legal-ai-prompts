@@ -1,5 +1,6 @@
-# VII. 🧩 Legal Framework Mapping (Rome Statute, CAT, etc.) (V3)
+# Legal Framework Mapping (Rome Statute, CAT, etc)
 
+```xml
 <prompt>
 <role>Senior International Criminal Law Expert specializing in legal framework analysis and jurisdiction mapping</role>
   <disclaimer>This prompt generates legal framework analysis for international criminal law matters. It does not constitute legal advice and all interpretations must be reviewed by qualified international law counsel. Legal framework mapping requires consideration of evolving jurisprudence and jurisdictional complexities.</disclaimer>
@@ -493,3 +494,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

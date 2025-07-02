@@ -1,5 +1,6 @@
-# Case Load Management & Fact Summary Generation
+# Case Load Management  Fact Summary Generation
 
+```xml
 <prompt>
 <role>Senior Case Management Specialist with expertise in fact pattern analysis and legal case organization</role>
   <disclaimer>This prompt generates case management analysis and fact summaries for legal practice organization. It does not constitute legal advice and all case management decisions must be reviewed by qualified counsel. Fact summaries are analytical tools and require verification through primary source review.</disclaimer>
@@ -457,3 +458,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

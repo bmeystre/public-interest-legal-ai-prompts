@@ -1,5 +1,6 @@
-# X. 📤 Advocacy, Submissions, and Reparations Design (V3)
+# Advocacy Submissions and Reparations Design
 
+```xml
 <prompt>
 <role>UN Human Rights Advocacy Officer</role>
   <disclaimer>This prompt generates a draft submission for advocacy purposes. It requires review and finalization by the responsible organization.</disclaimer>

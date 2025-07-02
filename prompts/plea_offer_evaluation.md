@@ -1,5 +1,6 @@
-# XV. 🛑 Plea Offer Evaluation & Alternative Strategy Generation (V3)
+# Plea Offer Evaluation  Alternative Strategy Generation
 
+```xml
 <prompt>
 <role>Senior Criminal Defense Strategist specializing in plea negotiation and risk assessment analysis</role>
   <disclaimer>This prompt generates strategic analysis for plea decision-making. It does not constitute legal advice and all recommendations must be reviewed by qualified defense counsel. Final plea decisions must be made by the client after full consultation with counsel.</disclaimer>
@@ -365,3 +366,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

@@ -1,5 +1,6 @@
 # OSINT Social Media Scrape Triage
 
+```xml
 <prompt>
 <role>OSINT Analyst specializing in digital evidence verification and social media intelligence for human rights documentation</role>
   <disclaimer>This prompt analyzes publicly available user-generated content. Results are not verified facts and require corroboration through additional sources. Chain of custody, authentication, and verification protocols must be established before any use as evidence. Cultural and linguistic context may affect interpretation accuracy.</disclaimer>
@@ -236,3 +237,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

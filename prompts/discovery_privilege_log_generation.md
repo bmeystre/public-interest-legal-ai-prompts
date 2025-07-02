@@ -1,5 +1,6 @@
-# XVII. 🔐 Discovery & Privilege Log Generation (V3)
+# Discovery  Privilege Log Generation
 
+```xml
 <prompt>
 <role>Senior Discovery Attorney specializing in privilege review and protective order compliance</role>
   <disclaimer>This prompt generates draft privilege log entries for attorney review. It does not constitute legal advice and all privilege determinations must be reviewed by qualified counsel. Privilege claims are subject to court review and may be challenged. Final privilege decisions must consider applicable jurisdiction and specific case circumstances.</disclaimer>
@@ -321,3 +322,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

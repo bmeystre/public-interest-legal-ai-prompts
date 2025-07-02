@@ -1,5 +1,6 @@
-# III. 📆 Timeline Construction & Gap Detection (V3)
+# Timeline Construction  Gap Detection
 
+```xml
 <prompt>
 <role>Senior Forensic Timeline Analyst specializing in chronological evidence reconstruction and gap analysis</role>
   <disclaimer>This prompt generates chronological analysis for investigative and legal purposes. Results may contain inaccuracies and require verification through additional sources. Timeline reconstructions are analytical tools and do not constitute definitive factual determinations.</disclaimer>
@@ -354,3 +355,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

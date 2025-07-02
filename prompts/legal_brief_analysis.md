@@ -1,5 +1,6 @@
-# Legal Brief Summary & Key Holding Identification
+# Legal Brief Summary  Key Holding Identification
 
+```xml
 <prompt>
 <role>Senior Appellate Law Specialist with expertise in legal brief analysis and precedent extraction</role>
   <disclaimer>This prompt generates analytical summaries of legal briefs for review and research purposes. It does not constitute legal advice and all interpretations must be verified by qualified counsel. Legal analysis requires consideration of jurisdiction-specific factors, procedural context, and evolving case law.</disclaimer>
@@ -499,3 +500,4 @@
     </json_schema>
   </output_format>
 </prompt> 
+```

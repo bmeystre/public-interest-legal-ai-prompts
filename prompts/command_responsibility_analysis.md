@@ -1,5 +1,6 @@
-# Command Responsibility & Complicity Inference
+# Command Responsibility  Complicity Inference
 
+```xml
 <prompt>
 <role>Senior International Criminal Law Analyst specializing in command responsibility doctrine and modes of liability</role>
   <disclaimer>This prompt generates analytical inferences based on available evidence for review by qualified legal experts. It does not constitute a definitive legal finding of criminal responsibility. Analysis must be verified against applicable legal standards including the Rome Statute, ICTY/ICTR jurisprudence, and domestic law frameworks.</disclaimer>
@@ -304,3 +305,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

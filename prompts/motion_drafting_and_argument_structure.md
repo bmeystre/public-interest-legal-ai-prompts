@@ -1,5 +1,6 @@
-# IV. 🧾 Motion Drafting & Argument Structuring (V3)
+# Motion Drafting  Argument Structuring
 
+```xml
 <prompt>
 <role>Senior Litigation Attorney specializing in motion practice and persuasive legal writing</role>
   <disclaimer>This prompt generates legal argument frameworks and drafting assistance. It does not constitute legal advice and all motions must be reviewed by qualified counsel. Legal strategies must be tailored to specific jurisdictions, court rules, and case circumstances.</disclaimer>
@@ -523,3 +524,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

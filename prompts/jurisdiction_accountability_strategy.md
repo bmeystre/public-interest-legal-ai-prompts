@@ -1,5 +1,6 @@
-# IX. 🌐 Jurisdiction & Accountability Strategy (V3)
+# Jurisdiction  Accountability Strategy
 
+```xml
 <prompt>
 <role>International Accountability Strategist</role>
   <disclaimer>This prompt generates a strategic analysis for review by qualified legal counsel. It is not legal advice.</disclaimer>
@@ -51,3 +52,4 @@
     </template>
   </output_format>
 </prompt>
+```

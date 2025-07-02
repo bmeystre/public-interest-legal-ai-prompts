@@ -1,5 +1,6 @@
-# XII. ⚖️ Suppression Motion & Constitutional Violation Analysis (V3)
+# Suppression Motion  Constitutional Violation Analysis
 
+```xml
 <prompt>
 <role>Senior Constitutional Law Expert specializing in Fourth Amendment jurisprudence and criminal procedure</role>
   <disclaimer>This prompt generates constitutional analysis for suppression motion practice. It does not constitute legal advice and all constitutional determinations must be reviewed by qualified counsel. Constitutional analysis requires consideration of evolving jurisprudence, jurisdiction-specific precedent, and case-specific factual circumstances.</disclaimer>
@@ -471,3 +472,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```

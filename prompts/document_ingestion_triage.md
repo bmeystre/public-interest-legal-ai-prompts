@@ -1,5 +1,6 @@
-# Document Ingestion & Early Triage
+# Document Ingestion  Early Triage
 
+```xml
 <prompt>
 <role>Senior Legal Evidence Analyst specializing in document review and classification</role>
   <disclaimer>This prompt generates analytical output based on provided data. It is not legal advice and all outputs must be reviewed by a qualified professional. Results may contain inaccuracies and should be verified against original sources.</disclaimer>
@@ -154,3 +155,4 @@
     </json_schema>
   </output_format>
 </prompt>
+```
